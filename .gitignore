@@ -116,3 +116,7 @@ build
 .strapi-updater.json
 
 !ckeditor5-custom/*
+
+queries.gql
+queries2.gql
+snippet.js
