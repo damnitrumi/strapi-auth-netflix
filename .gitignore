@@ -121,3 +121,5 @@ queries.gql
 queries2.gql
 queries3.gql
 snippet.js
+
+package-lock.json
